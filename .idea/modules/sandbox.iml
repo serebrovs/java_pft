@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="sandbox" external.linked.project.path="$USER_HOME$/Documents/GitHub/javatest/sandbox" external.root.project.path="$USER_HOME$/Documents/GitHub/javatest/sandbox" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Documents/GitHub/javatest/sandbox">
+      <excludeFolder url="file://$USER_HOME$/Documents/GitHub/javatest/sandbox/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/Documents/GitHub/javatest/sandbox/build" />
+      <excludeFolder url="file://$USER_HOME$/Documents/GitHub/javatest/sandbox/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
